@@ -1,11 +1,11 @@
 **Class Details**
 
 * Location: Remote
-* Time: Tues 6:00 - 8:40 pm
-* Dates:  01/04/2022 - 03/23/2022
+* Time: Thursdays 6:00 - 8:40 pm
+* Dates:  01/06/2022 - 03/24/2022
 * Credits: 5
 * Prerequisites: AD 300 or similar with 2.5 or better
-* Instructor: Brenden West | brenden.west@seattlecolleges.edu
+* Instructor: Kevin Lim | kevin.lim@seattlecolleges.edu
 
 **Summary** 
 This class covers fundamental data structures, algorithms, and problem-solving techniques at the core of computer science. Students will learn how to estimate theoretical performance of a programmatic solution and choose optimal solutions for common programming problems.
